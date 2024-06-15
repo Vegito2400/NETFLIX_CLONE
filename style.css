@@ -197,6 +197,9 @@ border: none;
     bottom: -0.5rem;
     background-color: rgb(65, 65, 65);
 }
+@media screen and (max-width:1000px){
+    bottom: -0.2rem;
+}
 page2{
     height: 82vh;
     background-color: black;
